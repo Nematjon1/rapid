@@ -1,2 +1,5 @@
-t_*
-!t_*.nim
+tgraphics
+tlaser
+tworld
+tchipmunk
+*.exe

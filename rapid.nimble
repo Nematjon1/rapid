@@ -3,7 +3,7 @@
 #~~
 
 version =
-  "0.1.0"
+  "2020.1"
 author =
   "iLiquid"
 description =
@@ -17,6 +17,5 @@ srcDir =
 # Dependencies
 #~~
 
-requires "nim >= 0.19.4"
-requires "glm >= 1.1.1"
-requires "nimterop"
+requires "nim >= 0.20.0"
+requires "aglet >= 0.4.2"
